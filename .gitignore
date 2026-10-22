@@ -28,3 +28,4 @@ cython_debug/
 # project
 .env
 .vscode
+.venv/
